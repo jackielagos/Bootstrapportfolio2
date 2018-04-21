@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+
+  }
+  
+  body {
+      background: #ffff;
+      color: #777777;
+      border-color: #dddddd;
+      font-family: 'Georgia', Times, Times New Roman, serif;
+      width: 960px;
+  }
+  main {
+
+    width: 960px;
+  }
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-color: #ccc;
+    background: #ffffff;
+    color: teal;
+  }
+
+
+h1 {
+    font-size: 30px;
+    background: teal;
+       color: white;
+}
+
+
+
